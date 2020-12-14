@@ -13,15 +13,6 @@ div#wrapper  {
     background-color:rgb(250,241,234);
 }
 
-header {
-    background-color: rgb(192, 240, 223);
-    text-align: center;
-}
-
-img#logo {
-    width: 320px;
-}
-
 img {
     width: 100%;
 }
@@ -33,9 +24,9 @@ ul {
 
 li {
     background-color: rgb(128,128,128);
-    padding: 10px;
+    padding: 20px;
     padding-left: 20px;
-    border-top: 1px solid white;
+    border-top: 0px solid white;
 }
 
 li a {
@@ -69,22 +60,22 @@ section,footer {
 @media all and (min-width: 550px){
     section#nieuws {
         width: 40%;
-        float: left;
+        float: right;
     }
     section#instrumenten {
         width: 60%;
-        float: right;
+        float: left;
     }
 }
 
 @media all and (min-width: 920px){
     section#nieuws {
         width: 30%;
-        float: left;
+        float: right;
     }
     section#instrumenten {
         width: 70%;
-        float: right;
+        float: left;
     }
     article {
         display: inline-block;
