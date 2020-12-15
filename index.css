@@ -70,7 +70,7 @@ section,footer {
         width: 40%;
         float: right;
     }
-    section#instrumenten {
+    section#stagelopen {
         width: 60%;
         float: left;
     }
@@ -81,7 +81,7 @@ section,footer {
         width: 30%;
         float: right;
     }
-    section#instrumenten {
+    section#stagelopen {
         width: 70%;
         float: left;
     }
@@ -108,6 +108,7 @@ section,footer {
 
 footer {
     background-color: rgb(128,128,128);
+    height: 400px;
     color: white;
     clear: both;
 }
