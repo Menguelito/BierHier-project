@@ -78,7 +78,7 @@ section,footer {
 
 @media all and (min-width: 920px){
     section#nieuws {
-        padding-top: 120px;
+        padding-top: 140px;
         width: 30%;
         float: right;
     }
