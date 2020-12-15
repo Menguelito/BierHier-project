@@ -93,6 +93,9 @@ section,footer {
         margin: auto;
         background-color:rgb(250,241,234);
     }
+    image {
+        size: 20px;
+    }
 }
 
 footer {
@@ -104,3 +107,7 @@ footer {
 footer h3 {
     color: white;
 }
+
+<!-- ----------------------------- -->
+
+
