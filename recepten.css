@@ -101,9 +101,9 @@ section,footer {
     }
 }
 
-@media all and (min-width: 1200px){
+@media all and (min-width: 1600px){
     div#wrapper {
-        width: 1200px;
+        width: 1600px;
         margin: auto;
         background-color:rgb(250,241,234);
     }
