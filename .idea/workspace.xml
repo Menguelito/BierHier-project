@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68747815-1a83-46a5-85de-241305ddeb7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sportPagina.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/drums.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gitaar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/saxofoon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/trompet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/truemusic-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sportPagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/sportPagina.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -86,5 +91,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="-299" key="run.anything.popup" timestamp="1608033558214">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="616" y="-299" key="run.anything.popup/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1608033558214" />
   </component>
 </project>
