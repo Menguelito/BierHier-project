@@ -69,8 +69,23 @@ td.tekst {
     padding-left: 10px;
 }
 
+td.boksen {
+    padding-bottom: 0px;
+}
+
 h2 {
     padding-left: 40px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+
+section#adressen {
+    float: left;
+}
+
+section#adressen section {
+    width: 25%;
+    float: left;
 }
 
 h3 {
