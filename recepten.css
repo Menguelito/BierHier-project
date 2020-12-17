@@ -112,15 +112,31 @@ section,footer {
     }
 }
 
+
 footer {
     background-color: rgb(128,128,128);
-    height: 300px;
+    height: auto;
     color: white;
     clear: both;
 }
-
+footer.listFooter {
+    display: inline-block;
+    float: left;
+}
 footer h3 {
     color: white;
+    padding-left: 20px;
 }
+
+/*footer {*/
+/*    background-color: rgb(128,128,128);*/
+/*    height: 300px;*/
+/*    color: white;*/
+/*    clear: both;*/
+/*}*/
+
+/*footer h3 {*/
+/*    color: white;*/
+/*}*/
 
 <!-- ----------------------------- -->
