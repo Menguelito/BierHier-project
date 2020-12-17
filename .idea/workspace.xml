@@ -19,20 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68747815-1a83-46a5-85de-241305ddeb7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/Contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Overons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Overons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Menguelito.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Quinten.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/googlemaps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/groepsfoto bierhier project.jpg" afterDir="false" />
+    <list default="true" id="68747815-1a83-46a5-85de-241305ddeb7e" name="Default Changelist" comment="Taak 2a en 2b Commit en Push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +76,18 @@
       <workItem from="1608028495141" duration="7428000" />
       <workItem from="1608099448333" duration="16000" />
       <workItem from="1608118165247" duration="3858000" />
-      <workItem from="1608154273706" duration="720000" />
+      <workItem from="1608154273706" duration="1362000" />
+      <workItem from="1608201181860" duration="788000" />
+      <workItem from="1608202859102" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="Taak 2a en 2b Commit en Push">
+      <created>1608155086977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608155086977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +105,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Taak 2a en 2b Commit en Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taak 2a en 2b Commit en Push" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608124153631">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -116,5 +118,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608029773590" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608155092261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608155092261" />
   </component>
 </project>
