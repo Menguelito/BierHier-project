@@ -9,12 +9,12 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-div#wrapper  {
+div.wrapper  {
     background-color:rgb(250,241,234);
 }
 
 @media all and (min-width: 1200px){
-    div#wrapper {
+    div.wrapper {
         width: 1600px;
         margin: auto;
         background-color:rgb(250,241,234);
@@ -81,15 +81,15 @@ h2 {
     display: inline-block;
 }
 
-h2#uitslagen {
+h2.uitslagen {
     float: right;
 }
 
-section#adressen {
+section.adressen {
     float: left;
 }
 
-section#adressen section {
+section.adressen section {
     width: 25%;
     float: left;
 }
@@ -103,7 +103,7 @@ section,footer {
     padding: 20px;
 }
 
-#sportDetail {
+.sportDetail {
     display: inline-block;
 }
 
@@ -116,7 +116,7 @@ section,footer {
 }
 
 /* Clear floats after the columns */
-#detailTekst:after {
+.detailTekst:after {
     content: "";
     display: table;
     clear: both;
