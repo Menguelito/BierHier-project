@@ -94,9 +94,9 @@ section,footer {
     }
 }
 
-@media all and (min-width: 1600px){
+@media all and (min-width: 1200px){
     div#wrapper {
-        width: 1600px;
+        width: 1200px;
         margin: auto;
         background-color:rgb(250,241,234);
     }
@@ -107,11 +107,7 @@ section,footer {
 
 footer {
     background-color: rgb(128,128,128);
-<<<<<<< HEAD:CSS/index.css
     height: auto;
-=======
-    height: 300px;
->>>>>>> detailpagina:index.css
     color: white;
     clear: both;
 }
