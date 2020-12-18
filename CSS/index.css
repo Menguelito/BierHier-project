@@ -19,7 +19,6 @@ img {
 
 #image {
     max-width: 30%;
-    height: auto;
     padding-right: 20px;
     float: right;
 }
@@ -108,7 +107,7 @@ section,footer {
 
 footer {
     background-color: rgb(128,128,128);
-    height: 400px;
+    height: auto;
     color: white;
     clear: both;
 }
@@ -116,6 +115,7 @@ footer {
 footer h3 {
     color: white;
 }
+
 
 <!-- ----------------------------- -->
 
