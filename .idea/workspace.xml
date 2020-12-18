@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="68747815-1a83-46a5-85de-241305ddeb7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/boksen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boksen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boksen3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bokserDetailed1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boksjonger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boksuitslagen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hockey1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hockey2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hockey3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hockeyDetailed1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hockeyUitslagen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hockeyjongen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/uitslagen.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/voetbalDetailed1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/voetbaljongen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zaalvoetbal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zaalvoetbal2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zaalvoetbal3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sport1Detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sport2Detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sport3Detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sportPagina.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sportPagina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/drums.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gitaar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/saxofoon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/trompet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/truemusic-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport1Detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/sport1Detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport2Detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/sport2Detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport3Detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/sport3Detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sportPagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/sportPagina.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sportPagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/sportPagina.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +38,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samme\Documents\Opleiding\Nieuwe map\BierHier project\CSS" />
+    </key>
+  </component>
   <component name="TaskManager">
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
