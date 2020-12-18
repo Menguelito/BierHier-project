@@ -9,10 +9,6 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-#copyright {
-    float: bottom;
-    float: right;
-}
 
 div#wrapper  {
     background-color:rgb(250,241,234);
