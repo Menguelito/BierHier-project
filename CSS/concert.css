@@ -56,23 +56,6 @@ li a {
     }
 }
 
-table {
-    margin: 20px;
-}
-
-td {
-    padding-left: 15px;
-    padding-bottom: 60px;
-}
-
-td.tekst {
-    padding-left: 10px;
-}
-
-td.boksen {
-    padding-bottom: 0px;
-}
-
 h2 {
     padding-left: 40px;
     padding-bottom: 20px;
@@ -81,53 +64,33 @@ h2 {
     display: inline-block;
 }
 
-h2.uitslagen {
-    float: right;
-}
 
 h3.titel {
     float: right;
-    padding-right: 300px;
+    padding-right: 500px;
 }
 
-section.adressen {
-    float: left;
-}
 
-section.adressen section {
-    width: 25%;
-    float: left;
-}
 
 h3 {
     font-size: 22px;
     color:rgb(220,106,94);
 }
 
+div#concertLinkPlaatjes {
+    width: 20%;
+}
+
 section,footer {
     padding: 20px;
 }
 
-.sportDetail {
+.homepage-fotos {
     display: inline-block;
 }
 
-/* Create three equal columns that floats next to each other */
-.tekst {
-    float: left;
-    width: 25%;
-    padding: 20px;
-    padding-left: 37px;
-}
 
-/* Clear floats after the columns */
-.detailTekst:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-img#frontpage-image {
+img.frontpage-image {
     padding: 30px;
     margin-top: 60px;
 }
@@ -157,6 +120,37 @@ footer.listFooter {
 footer h3 {
     color: white;
     padding-left: 20px;
+}
+
+.img-container {
+    float: left;
+    width: 20%;
+    padding: 15px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+img.article {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 486px;
+}
+
+
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+article:last-child {
+    padding-right: 0px;
 }
 
 <!-- ----------------------------- -->
