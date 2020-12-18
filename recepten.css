@@ -9,6 +9,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+
 div#wrapper  {
     background-color:rgb(250,241,234);
 }
@@ -19,6 +20,7 @@ img {
 
 #image {
     max-width: 30%;
+    height: auto;
     padding-right: 20px;
     float: right;
 }
@@ -77,8 +79,10 @@ section,footer {
 
 @media all and (min-width: 920px){
     section#nieuws {
+        padding-top: 110px;
         width: 30%;
         float: right;
+        padding-bottom: 100px;
     }
     section#stagelopen {
         width: 70%;
@@ -105,22 +109,31 @@ section,footer {
     }
 }
 
+
 footer {
     background-color: rgb(128,128,128);
-<<<<<<< HEAD:CSS/index.css
     height: auto;
-=======
-    height: 300px;
->>>>>>> detailpagina:index.css
     color: white;
     clear: both;
 }
-
+footer.listFooter {
+    display: inline-block;
+    float: left;
+}
 footer h3 {
     color: white;
+    padding-left: 20px;
 }
 
+/*footer {*/
+/*    background-color: rgb(128,128,128);*/
+/*    height: 300px;*/
+/*    color: white;*/
+/*    clear: both;*/
+/*}*/
+
+/*footer h3 {*/
+/*    color: white;*/
+/*}*/
 
 <!-- ----------------------------- -->
-
-
